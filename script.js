@@ -9,7 +9,7 @@ var UserStatus;
 })(UserStatus || (UserStatus = {}));
 var Default;
 (function (Default) {
-    Default["PIN"] = "Daleel@123";
+    Default["PIN"] = "0000";
 })(Default || (Default = {}));
 var WeatherType;
 (function (WeatherType) {
